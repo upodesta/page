@@ -1,0 +1,43 @@
+# Site settings
+title: Hassan and Associates
+description: 'A Blog for Income tax, Company law and Business service provider'
+url: ''
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'hassanandassociates'
+
+author:
+  name: 'Syed Hassan Ali'
+  email: info@hassanandassociates.biz
+  twitter_username: hasanassociates
+  facebook_username: hassanandassociates.biz
+  github_username:  hassanandassociatesBD
+  linkedin_username:  Company/hassanassociates
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
