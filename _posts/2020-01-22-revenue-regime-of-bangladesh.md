@@ -3,6 +3,7 @@ title:  "Revenue Regime of Bangladesh"
 date:   2020-01-22 15:04:23
 categories: [income-tax]
 tags: [income-tax]
+comments: true
 ---
 
 The current fiscal regime of Bangladesh consists of direct and indirect taxation. It is governed by the
