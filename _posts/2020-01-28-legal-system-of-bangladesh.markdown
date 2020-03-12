@@ -1,6 +1,6 @@
 ---
 title:  "Legal System of Bangladesh"
-date:   2020-01-08 15:04:23
+date:   2020-01-28 15:04:23
 categories: [company-law]
 tags: [company-law]
 Comments: true
