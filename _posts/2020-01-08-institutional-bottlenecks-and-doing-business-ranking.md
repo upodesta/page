@@ -3,7 +3,7 @@ title:  "Institutional bottlenecks and doing business ranking"
 date:   2020-01-08 15:04:23
 categories: [Business]
 tags: [Business]
-image: assets/img/6.jpg
+image: https://page.hassanandassociates.biz/assets/img/6.jpg
 ---
 
 A deeper analysis of the country’s investment

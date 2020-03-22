@@ -3,7 +3,7 @@ title:  "Current Investment Environment in Bangladesh"
 date:   2020-01-28 15:04:23
 categories: [company-law]
 highlight: true
-image: assets/img/2.jpg
+image: https://page.hassanandassociates.biz/assets/img/2.jpg
 ---
 
 The Least Developed Country (LDC) status of
