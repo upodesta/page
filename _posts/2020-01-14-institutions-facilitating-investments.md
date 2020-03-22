@@ -3,7 +3,7 @@ layout: post
 title:  "Institutions Facilitating Investments "
 date:   2020-01-14 15:04:23
 categories: Business
-image: https://page.hassanandassociates.biz/assets/img/1.jpg
+image: assets/img/10.jpg
 ---
 
 The country’s central bank, Bangladesh Bank
