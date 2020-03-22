@@ -2,8 +2,8 @@
 title:  "Current Investment Environment in Bangladesh"
 date:   2020-01-28 15:04:23
 categories: [company-law]
-tags: [company-law]
-Comments: true
+highlight: true
+image: assets/img/2.jpg
 ---
 
 The Least Developed Country (LDC) status of
@@ -28,7 +28,7 @@ evolving nuclear family structure and more
 involvement of women in the workforce. In
 2005, 26.8% of the total population lived in
 urban areas, which have increased to 34.3% in 2015. By 2025, 42% of the population is
-predicted to be living in urban areas.¹³
+predicted to be living in urban areas.
 Urbanization level is expected to grow further in
 the next ten years with the growing Middle and
 Affluent Class (MAC) population. There are

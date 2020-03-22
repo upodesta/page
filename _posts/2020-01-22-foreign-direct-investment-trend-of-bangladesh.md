@@ -3,7 +3,7 @@ title:  "Foreign Direct Investment Trend"
 date:   2020-01-22 15:04:23
 categories: [income-tax]
 tags: [income-tax]
-comments: true
+image: assets/img/4.jpg
 ---
 
 In Bangladesh, FY 2016-17 and FY 2017-18 were the first two

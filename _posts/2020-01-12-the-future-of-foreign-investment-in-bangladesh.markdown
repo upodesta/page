@@ -3,7 +3,7 @@ title:  "The Future of Foreign Investment in Bangladesh"
 date:   2020-01-28 15:04:23
 categories: [Business]
 tags: [Business]
-Comments: true
+image: assets/img/3.jpg
 ---
 
 Although, in the recent World Bank report,

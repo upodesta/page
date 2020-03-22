@@ -3,7 +3,7 @@ title:  "Special Economic Zones in Bangladesh"
 date:   2020-01-18 15:04:23
 categories: [Business]
 tags: [Business]
-Comments: true
+image: assets/img/5.jpg
 ---
 
 The Bangladesh Export Processing Zones Act of

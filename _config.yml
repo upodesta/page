@@ -1,43 +1,36 @@
 # Site settings
 title: Hassan and Associates
-description: 'A Blog for Income tax, Company law and Business service provider'
-url: ''
-baseurl: ''
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'hassanandassociates'
+email: info@hassanandassociates.biz
+description: > # this means to ignore newlines until "baseurl:"
+  A Blog Site for Income tax, Company law and Business Service matters
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+twitter_username: hasanassociates
+github_username:  
+facebook_username: hassanandassociates.biz
+google_play: 
+google_plus_com: # Community link
+google_plus_per:  #Personal link
+facebook_app_id: 
 
-author:
-  name: 'Syed Hassan Ali'
-  email: info@hassanandassociates.biz
-  twitter_username: hasanassociates
-  facebook_username: hassanandassociates.biz
-  github_username:  hassanandassociatesBD
-  linkedin_username:  Company/hassanassociates
+# Layout settings
+header_type: default  # values [ drawer, default ]
+post_type: highlight    # values [ highlight, default ]
+pagination_type: default  # values [ ops, default ]
 
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    values:
-        layout: 'post'
+more_vert:
+  option1:
+    name: Official Site
+    link: https://hassanandassociates.biz
+  option2:
+    name: Official Blog
+    link: https://blog.hassanandassociates.biz
+  option3:
+    name: Diary Blog
+    link: https://diary.hassanandassociates.biz
+
+disqus: true
+disqus_shortname: 'hassanandassociates'
 
 # Build settings
-destination: _site
-paginate: 10
-permalink: /:year/:title/
 markdown: kramdown
-highlighter: rouge
-
-sass:
-    sass_dir: _sass
-    style: compressed
-
-kramdown:
-  # use Github Flavored Markdown
-  input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
-
-plugins: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

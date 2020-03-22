@@ -1,9 +1,9 @@
 ﻿---
+layout: post
 title:  "Institutions Facilitating Investments "
 date:   2020-01-14 15:04:23
-categories: [Business]
-tags: [Business]
-Comments: true
+categories: Business
+image: assets/img/1.jpg
 ---
 
 The country’s central bank, Bangladesh Bank
