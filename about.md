@@ -12,11 +12,11 @@ We provide services for individual and company income tax, company registration,
 
 Here are the points where you can get in touch or find us @
 
-- [Official Site](https://hassanandassociates.biz)
+- [Official Site](https://hassan.com.bd)
 
 - [Blog 'Notes' Site](https://notes.hassanandassociates.biz)
 
-- [Blog 'Diary' Site](https://diary.hassanandassociates.biz)
+- [Blog 'Diary' Site](https://diary.hassan.com.bd)
 
 - [Blogger Site](https://blogger.hassanandassociates.biz)
 

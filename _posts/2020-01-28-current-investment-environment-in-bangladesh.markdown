@@ -3,7 +3,7 @@ title:  "Current Investment Environment in Bangladesh"
 date:   2020-01-28 15:04:23
 categories: [company-law]
 highlight: true
-image: https://page.hassanandassociates.biz/assets/img/2.jpg
+image: https://page.hassan.com.bd/assets/img/2.jpg
 ---
 
 The Least Developed Country (LDC) status of
@@ -42,7 +42,7 @@ investment in the secondary and tertiary sector of the country
 
 - The Bangladesh government provides five to seven years of tax exemption to
 international investors planning on operating in certain sectors. Investments in
-some priority sectors like power, enjoy tax exemption for up to 15 years.¹⁴
+some priority sectors like power, enjoy tax exemption for up to 15 years.
 Additionally, Bangladesh has a double taxation avoidance agreement with 18+
 major trading partners. Bilateral signatories of Double Tax Avoidance (DTA)
 agreements include Belgium, Canada, China, Denmark, France, Germany, India,

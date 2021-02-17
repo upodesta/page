@@ -3,7 +3,7 @@ title:  "Legal Compliance and Regulations"
 date:   2020-01-10 15:04:23
 categories: [Business]
 tags: [Business]
-image: https://page.hassanandassociates.biz/assets/img/6.jpg
+image: https://page.hassan.com.bd/assets/img/6.jpg
 ---
 
 Bangladesh has a common law-based judicial system. The country’s basic laws such as

@@ -1,6 +1,6 @@
 # Site settings
 title: Hassan and Associates
-email: info@hassanandassociates.biz
+email: info@hassan.com.bd
 description: > # this means to ignore newlines until "baseurl:"
   A Blog Site for Income tax, Company law and Business Service matters
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -21,13 +21,13 @@ pagination_type: default  # values [ ops, default ]
 more_vert:
   option1:
     name: Official Site
-    link: https://hassanandassociates.biz
+    link: https://hassan.com.bd
   option2:
     name: Official Blog
-    link: https://blog.hassanandassociates.biz
+    link: https://blog.hassan.com.bd
   option3:
     name: Diary Blog
-    link: https://diary.hassanandassociates.biz
+    link: https://diary.hassan.com.bd
 
 disqus: true
 disqus_shortname: 'hassanandassociates'
