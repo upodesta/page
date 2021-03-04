@@ -14,11 +14,11 @@ Here are the points where you can get in touch or find us @
 
 - [Official Site](https://hassan.com.bd)
 
-- [Blog 'Notes' Site](https://notes.hassanandassociates.biz)
+- [Blog 'Notes' Site](https://notes.hassan.com.bd)
 
 - [Blog 'Diary' Site](https://diary.hassan.com.bd)
 
-- [Blogger Site](https://blogger.hassanandassociates.biz)
+- [Blogger Site](https://blogger.hassan.com.bd)
 
 - [Blog 'Wordpress' Site](https://hassanandassociates.wordpress.com)
 
