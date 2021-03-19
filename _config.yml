@@ -33,7 +33,7 @@ disqus: true
 disqus_shortname: 'hassanandassociates'
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: 'UA-66934702-24'
+google_analytics: 'UA-66934702-28'
 
 # Build settings
 markdown: kramdown
