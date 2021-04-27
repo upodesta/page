@@ -24,6 +24,11 @@ Here are the points where you can get in touch or find us @
 
 - [Blog 'Wordpress' Site](https://hassanandassociates.wordpress.com)
 
-- [Business Site](http://hassanandassociates.business.site)
+- [Business Site](https://hassanandassociates.business.site)
 
 - [Portfolio Site](https://taxadvisor.com.bd)
+
+### Subscribe to our 
+
+<a href="https://hassan.com.bd/subscribe/" target="_blank"><img src="https://diary.hassan.com.bd/images/logos/nw.png" alt="Newsletter" style="height: auto !important;width: auto !important;" ></a>
+
