@@ -32,3 +32,7 @@ Here are the points where you can get in touch or find us @
 
 <a href="https://hassan.com.bd/subscribe/" target="_blank"><img src="https://diary.hassan.com.bd/images/logos/nw.png" alt="Newsletter" style="height: auto !important;width: auto !important;" ></a>
 
+### Contact us
+
+Hassan & Associates <br> 154/4, West Rampura <br> WAPDA Road, Dhaka <br> Bangladesh <br> Phone : +8801713257629 <br>
+[info@hassan.com.bd](mailto:info@hassan.com.bd)
